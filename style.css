@@ -1,0 +1,23 @@
+html{
+    background-color:rgb(53,53,53);
+    color: whitesmoke;
+}
+.top{
+   text-align: center;
+}
+
+header{
+    font-family: "Tangerine";
+    font-size: 72px;
+
+}
+
+h3{
+    font-family: "Unica One";
+    font-size: 26px;
+}
+
+div{ 
+    width = 2px
+    border = #FDEFA6 solid 13px;
+}
